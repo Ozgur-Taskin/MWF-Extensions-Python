@@ -1,1 +1,12 @@
+How to use:
+Create a schedule named 'Sample_Schedule'. 
+You must add BIMSF_Container field. Add any other fields as you want.
+Assign two filters
+1- BIMSF_Description / does not equal / PLABEL. This filter will remove panel labels from the schedule.
+2- BIMSF_Container / equals / (place any panel number from the model)
+Select one or more panels members and run the code. 
+The tool will duplicate the 'Sample_Schedule', change the title and apply filter.
 
+The title for the new schedule:
+The tool creates 'Panel Number + Framing List' as the title.
+if you want to change 'Framing List' part, scroll down and change ' Framing List' on line 48.
