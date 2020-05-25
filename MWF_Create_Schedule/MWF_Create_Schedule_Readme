@@ -1,4 +1,4 @@
-How to use:
+### How to use:
 Create a schedule named 'Sample_Schedule'. 
 You must add BIMSF_Container field. Add any other fields as you want.
 Assign two filters
