@@ -8,8 +8,10 @@ You need to install pyRevit to create buttons or you can install RevitPythonShel
 Special thanks to great minds behind the tools:
 
 * [Ehsan Iran-Nejad](https://github.com/eirannejad)
+#### [pyRevit](https://github.com/eirannejad/pyRevit)
+> IronPython scripts and add-in tab for Autodesk Revit®
+
 * [Daren Thomas](https://github.com/architecture-building-systems)
 * [Gui Talarico](https://github.com/gtalarico)
 
-#### [pyRevit](https://github.com/eirannejad/pyRevit)
-> IronPython scripts and add-in tab for Autodesk Revit®
+
