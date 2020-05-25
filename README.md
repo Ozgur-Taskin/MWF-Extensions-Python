@@ -23,5 +23,5 @@ Special thanks to great minds behind the tools:
 
 # Strucsoft Solutions / MWF
 #### [MWF](https://strucsoftsolutions.com/)
-> The proffesional grade framing application 
+> The proffesional grade framing application. 
 > Model, coordinate, engineer and manifacture in Autodesk Revit®
