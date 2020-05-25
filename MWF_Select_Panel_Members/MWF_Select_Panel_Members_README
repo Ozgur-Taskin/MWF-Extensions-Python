@@ -5,3 +5,6 @@ The tool will work for three categories in Revit:
 1- Structural Columns
 2- Structural Framing
 3- Structural Connectors
+
+You need to install pyRevit to create buttons or you can install RevitPythonShell, paste the code and run. 
+Please see repository README file.
