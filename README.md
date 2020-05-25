@@ -13,9 +13,13 @@ Special thanks to great minds behind the tools:
 
 * [Daren Thomas](https://github.com/architecture-building-systems)
 #### [RevitPythonShell](https://github.com/architecture-building-systems/revitpythonshell)
-> An IronPython scripting environment for Autodesk Revit
+> An IronPython scripting environment for Autodesk Revit®
 
 * [Gui Talarico](https://github.com/gtalarico)
 #### [RevitPythonWrapper](https://github.com/gtalarico/revitpythonwrapper)
-> Python Wrapper for the Revit API
+> Python Wrapper for the Autodesk Revit® API
 
+# Strucsoft Solutions / MWF
+#### [MWF](https://strucsoftsolutions.com/)
+> The proffesional grade framing application 
+> Model, coordinate, engineer and manifacture in Autodesk Revit®
