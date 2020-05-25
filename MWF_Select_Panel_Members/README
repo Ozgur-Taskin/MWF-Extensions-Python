@@ -1,0 +1,7 @@
+How to use:
+Select any member of a panel and run the tool.
+The tool will select all the members on the panel.
+The tool will work for three categories in Revit:
+1- Structural Columns
+2- Structural Framing
+3- Structural Connectors
