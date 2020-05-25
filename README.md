@@ -12,6 +12,10 @@ Special thanks to great minds behind the tools:
 > IronPython scripts and add-in tab for Autodesk Revit®
 
 * [Daren Thomas](https://github.com/architecture-building-systems)
-* [Gui Talarico](https://github.com/gtalarico)
+#### [RevitPythonShell](https://github.com/architecture-building-systems/revitpythonshell)
+> An IronPython scripting environment for Autodesk Revit
 
+* [Gui Talarico](https://github.com/gtalarico)
+#### [RevitPythonWrapper](https://github.com/gtalarico/revitpythonwrapper)
+> Python Wrapper for the Revit API
 
