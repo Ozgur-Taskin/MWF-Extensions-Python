@@ -13,3 +13,6 @@ if you want to change 'Framing List' part, change ' Framing List' on line 48.
 
 You need to install pyRevit to create buttons or you can install RevitPythonShell, paste the code and run. 
 Please see repository README file.
+
+A short recording for the tool:
+https://www.youtube.com/watch?v=b4mzYIb3v4Q&
