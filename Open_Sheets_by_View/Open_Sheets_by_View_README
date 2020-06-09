@@ -1,0 +1,7 @@
+# How to use:
+# Select any sheet from Project Browser
+# Run the tool
+# You can select multiple sheets with holding CTRL or SHIFT
+
+You need to install pyRevit to create buttons or you can install RevitPythonShell, paste the code and run. 
+Please see repository README file.
